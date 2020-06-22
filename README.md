@@ -3,6 +3,6 @@
 Team Members
 
 * Girish D S
-* Divyashree K
+* Divyashree R
 * Shubham Tiwari 
 * Yashaswini P D
